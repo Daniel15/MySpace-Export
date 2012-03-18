@@ -3,12 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daniel15.MySpaceExport", "MySpaceExport\Daniel15.MySpaceExport.csproj", "{920B3FF5-C72C-413C-AC72-2C2C72895D74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daniel15.FacebookPhotoImport", "FacebookPhotoImport\Daniel15.FacebookPhotoImport.csproj", "{1C9EED43-E507-4773-A42D-3562FEDBEBAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C9EED43-E507-4773-A42D-3562FEDBEBAF}.Debug|x86.ActiveCfg = Debug|x86
+		{1C9EED43-E507-4773-A42D-3562FEDBEBAF}.Debug|x86.Build.0 = Debug|x86
+		{1C9EED43-E507-4773-A42D-3562FEDBEBAF}.Release|x86.ActiveCfg = Release|x86
+		{1C9EED43-E507-4773-A42D-3562FEDBEBAF}.Release|x86.Build.0 = Release|x86
 		{920B3FF5-C72C-413C-AC72-2C2C72895D74}.Debug|x86.ActiveCfg = Debug|x86
 		{920B3FF5-C72C-413C-AC72-2C2C72895D74}.Debug|x86.Build.0 = Debug|x86
 		{920B3FF5-C72C-413C-AC72-2C2C72895D74}.Release|x86.ActiveCfg = Release|x86
